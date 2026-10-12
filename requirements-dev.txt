@@ -1,0 +1,5 @@
+-r requirements.txt
+# Packs the application and Python into one Windows executable.
+pyinstaller==6.22.3
+# Linter; its settings are in ruff.toml.
+ruff==0.16.10

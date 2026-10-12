@@ -1,0 +1,4 @@
+# PyMuPDF renders pages, copies them between documents, draws text, encrypts
+# and recompresses images. It is the only run time dependency; the interface
+# uses tkinter from the standard library.
+pymupdf==1.28.2
